@@ -1,0 +1,15 @@
+{
+  "name": "letsgosocial",
+  "version": "1.0.0",
+  "description": "Social Media App dealing with the social issues, A discussion forum",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
